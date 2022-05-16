@@ -82,7 +82,6 @@ class Weather:
                 
             except:
                 pass
-            
 
 
         
