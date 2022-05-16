@@ -13,6 +13,7 @@ class Weather:
         self.window.title("DzWeather")
         self.window.geometry("466x665")
         self.window.resizable(0,0)
+        self.window.iconbitmap("weather.ico")
         self.window.configure(bg = "white")
 
         #Background
